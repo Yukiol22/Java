@@ -13,17 +13,16 @@ public class Main {
         int b = Integer.parseInt(scanner.nextLine());
         System.out.print("give me c: ");
         int c = Integer.parseInt(scanner.nextLine());
-        double discriminant = Math.pow(b, 2) -4 * a * c;
+        double discriminant = Math.pow(b, 2) - 4 * a * c;
 
         if (discriminant < 0) {
             System.out.print("No real roots.");
-        }
-        else {
+        } else {
             double x1 = (-b + Math.sqrt(discriminant));
 
             double x2 = (-b - Math.sqrt(discriminant));
 
-            System.out.print("Roots "+ x1 + "and, " + x2);
+            System.out.print("Roots " + x1 + "and, " + x2);
 
         }
 
