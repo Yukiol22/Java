@@ -23,6 +23,8 @@
       <module fileurl="file://$PROJECT_DIR$/Task 2.2.1 Grocery List Manager/Task 2.2.1 Grocery List Manager.iml" filepath="$PROJECT_DIR$/Task 2.2.1 Grocery List Manager/Task 2.2.1 Grocery List Manager.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task 2.2.2 Total Cost Calculation/Task 2.2.2 Total Cost Calculation.iml" filepath="$PROJECT_DIR$/Task 2.2.2 Total Cost Calculation/Task 2.2.2 Total Cost Calculation.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task 2.2.3 Categorizing Items/Task 2.2.3 Categorizing Items.iml" filepath="$PROJECT_DIR$/Task 2.2.3 Categorizing Items/Task 2.2.3 Categorizing Items.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 2.2.4 Quantity Tracking/Task 2.2.4 Quantity Tracking.iml" filepath="$PROJECT_DIR$/Task 2.2.4 Quantity Tracking/Task 2.2.4 Quantity Tracking.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 2.2.5 Grocery List tester/Task 2.2.5 Grocery List tester.iml" filepath="$PROJECT_DIR$/Task 2.2.5 Grocery List tester/Task 2.2.5 Grocery List tester.iml" />
     </modules>
   </component>
 </project>
