@@ -36,6 +36,10 @@
       <module fileurl="file://$PROJECT_DIR$/Task 3.1.2 Bus/Task 3.1.2 Bus.iml" filepath="$PROJECT_DIR$/Task 3.1.2 Bus/Task 3.1.2 Bus.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task 3.1.3 Shape Hierarchy and Polymorphism/Task 3.1.3 Shape Hierarchy and Polymorphism.iml" filepath="$PROJECT_DIR$/Task 3.1.3 Shape Hierarchy and Polymorphism/Task 3.1.3 Shape Hierarchy and Polymorphism.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task 3.1.4 Shape properties/Task 3.1.4 Shape properties.iml" filepath="$PROJECT_DIR$/Task 3.1.4 Shape properties/Task 3.1.4 Shape properties.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3.2.1 Vehicle Interfaces and Implementations/Task 3.2.1 Vehicle Interfaces and Implementations.iml" filepath="$PROJECT_DIR$/Task 3.2.1 Vehicle Interfaces and Implementations/Task 3.2.1 Vehicle Interfaces and Implementations.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3.2.2 Vehicle Inheritance Hierarchy/Task 3.2.2 Vehicle Inheritance Hierarchy.iml" filepath="$PROJECT_DIR$/Task 3.2.2 Vehicle Inheritance Hierarchy/Task 3.2.2 Vehicle Inheritance Hierarchy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3.2.3 Electric Vehicles/Task 3.2.3 Electric Vehicles.iml" filepath="$PROJECT_DIR$/Task 3.2.3 Electric Vehicles/Task 3.2.3 Electric Vehicles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 3.2.4 Fuel Efficiency Calculation/Task 3.2.4 Fuel Efficiency Calculation.iml" filepath="$PROJECT_DIR$/Task 3.2.4 Fuel Efficiency Calculation/Task 3.2.4 Fuel Efficiency Calculation.iml" />
     </modules>
   </component>
 </project>
