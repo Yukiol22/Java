@@ -4,6 +4,7 @@ public class ServicePoint {
     private LinkedList<Customer> queue = new LinkedList<>();
     private long totalServiceTime = 0;
     private int servedCustomers = 0;
+
     public void addToQueue(Customer a) {
         queue.addFirst(a);
     }

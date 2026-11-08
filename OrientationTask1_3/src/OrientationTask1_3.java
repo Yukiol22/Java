@@ -6,8 +6,8 @@ public class OrientationTask1_3 {
         String h = "" + hours;
         String m = "" + mins;
 
-        if (hours < 10) h = "0" + h;   // 9  -> "09"
-        if (mins < 10)  m = "0" + m;   // 5  -> "05"
+        if (hours < 10) h = "0" + h;
+        if (mins < 10)  m = "0" + m;
 
         return h + ":" + m;
     }
