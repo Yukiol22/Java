@@ -50,6 +50,8 @@
       <module fileurl="file://$PROJECT_DIR$/Task 3.4.1 Read a CSV file from the network location/Task 3.4.1 Read a CSV file from the network location.iml" filepath="$PROJECT_DIR$/Task 3.4.1 Read a CSV file from the network location/Task 3.4.1 Read a CSV file from the network location.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task 3.4.2 Generate number sequence and store it to a CSV file for spreadsheet application/Task 3.4.2 Generate number sequence and store it to a CSV file for spreadsheet application.iml" filepath="$PROJECT_DIR$/Task 3.4.2 Generate number sequence and store it to a CSV file for spreadsheet application/Task 3.4.2 Generate number sequence and store it to a CSV file for spreadsheet application.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task 3.4.3 Serialization of Course Enrollment/Task 3.4.3 Serialization of Course Enrollment.iml" filepath="$PROJECT_DIR$/Task 3.4.3 Serialization of Course Enrollment/Task 3.4.3 Serialization of Course Enrollment.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 5.1.1 Multi-threaded Number Printing/Task 5.1.1 Multi-threaded Number Printing.iml" filepath="$PROJECT_DIR$/Task 5.1.1 Multi-threaded Number Printing/Task 5.1.1 Multi-threaded Number Printing.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 5.1.2 Parallel Number Summation/Task 5.1.2 Parallel Number Summation.iml" filepath="$PROJECT_DIR$/Task 5.1.2 Parallel Number Summation/Task 5.1.2 Parallel Number Summation.iml" />
     </modules>
   </component>
 </project>
