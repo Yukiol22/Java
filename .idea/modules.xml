@@ -52,6 +52,8 @@
       <module fileurl="file://$PROJECT_DIR$/Task 3.4.3 Serialization of Course Enrollment/Task 3.4.3 Serialization of Course Enrollment.iml" filepath="$PROJECT_DIR$/Task 3.4.3 Serialization of Course Enrollment/Task 3.4.3 Serialization of Course Enrollment.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task 5.1.1 Multi-threaded Number Printing/Task 5.1.1 Multi-threaded Number Printing.iml" filepath="$PROJECT_DIR$/Task 5.1.1 Multi-threaded Number Printing/Task 5.1.1 Multi-threaded Number Printing.iml" />
       <module fileurl="file://$PROJECT_DIR$/Task 5.1.2 Parallel Number Summation/Task 5.1.2 Parallel Number Summation.iml" filepath="$PROJECT_DIR$/Task 5.1.2 Parallel Number Summation/Task 5.1.2 Parallel Number Summation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 5.2.1 Ticket Reservation System/Task 5.2.1 Ticket Reservation System.iml" filepath="$PROJECT_DIR$/Task 5.2.1 Ticket Reservation System/Task 5.2.1 Ticket Reservation System.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Task 5.2.2 Thread-safe/Task 5.2.2 Thread-safe.iml" filepath="$PROJECT_DIR$/Task 5.2.2 Thread-safe/Task 5.2.2 Thread-safe.iml" />
     </modules>
   </component>
 </project>
